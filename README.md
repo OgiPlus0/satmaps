@@ -7,6 +7,8 @@
 
  [![Our Video](https://github.com/OgiPlus0/satmaps/assets/108802411/35142845-fc50-4a0c-8a63-15897f525850)]( https://www.youtube.com/watch?v=4vUPuomWYrc)
 
+ [![IMAGE ALT TEXT](https://github.com/OgiPlus0/satmaps/assets/108802411/35142845-fc50-4a0c-8a63-15897f525850)](http://www.youtube.com/watch?v=4vUPuomWYrc "Video Title")
+
 
 ## How We Will Develop This Project 
 

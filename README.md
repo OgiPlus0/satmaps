@@ -5,9 +5,13 @@
 
  ## Technical Demo of Our Project
 
- [![Our Video](https://github.com/OgiPlus0/satmaps/assets/108802411/35142845-fc50-4a0c-8a63-15897f525850)]( https://www.youtube.com/watch?v=4vUPuomWYrc)
+https://youtu.be/4vUPuomWYrc
 
- [![IMAGE ALT TEXT](https://github.com/OgiPlus0/satmaps/assets/108802411/35142845-fc50-4a0c-8a63-15897f525850)](http://www.youtube.com/watch?v=4vUPuomWYrc "Video Title")
+## How we developed our ui
+
+We have used Adobe XD while we are making a prototype to our project. And we also used Adobe XD's animations for the recording our video. You can reach our Adobe XD file from the top.
+
+![Ekran görüntüsü 2023-07-28 160408](https://github.com/OgiPlus0/satmaps/assets/108802411/1992e904-7964-4e49-b325-5ffbd5858205)
 
 
 ## How We Will Develop This Project 

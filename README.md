@@ -3,6 +3,11 @@
 
  Empowering Sustainable Investments! At SatMaps, we understand the increasing expectation from stakeholders for corporate commitment to biodiversity preservation. Our AI-based website offers predictions and suggestions for your future investments, while our chatbots alert you about potential side effects on local biodiversity. With our satellite-image-based map, you can confidently select environmentally responsible locations. Say goodbye to scattered and contradictory data; SatMaps brings all the information you need in one user-friendly platform. Make a positive impact on the environment while ensuring business success. Join us now and shape a greener future!
 
+ ## Technical Demo of Our Project
+
+ [![Our Video](https://github.com/OgiPlus0/satmaps/assets/108802411/35142845-fc50-4a0c-8a63-15897f525850)]( https://www.youtube.com/watch?v=4vUPuomWYrc)
+
+
 ## How We Will Develop This Project 
 
 Let me show you how we will do it.
